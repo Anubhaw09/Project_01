@@ -151,13 +151,11 @@ tesis_prime_miller_rabin — Miller–Rabin probabilistic primality test
 
 pollard_rho — Pollard’s rho factorization algorithm
 
+zeta_approx — approximate Riemann zeta function using series
 
+partition_function — number of integer partitions of n
 
 Contact
 
 Author / Student: Anubhaw Anand Singh
 Repo: https://github.com/Anubhaw09/Project_01
-
-zeta_approx — approximate Riemann zeta function using series
-
-partition_function — number of integer partitions of n
